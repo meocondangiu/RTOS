@@ -1,7 +1,5 @@
 # RTOS
 
-
-#Description
 An agricultural irrigation system needs to perform the following 5 tasks, for each irrigation session:
 
 Open fertilizer mixing Valve 1 for 5 seconds -nClose Valve 1, open fertilizer mixing Valve 2 for 5 seconds
